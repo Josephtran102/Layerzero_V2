@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@layerzerolabs/lz-evm-oapp-v2": "^2.0.2",
+    "@openzeppelin/contracts": "^4.8.1"
+  },
+  "devDependencies": {
+    "hardhat": "^2.19.2"
+  }
+}
