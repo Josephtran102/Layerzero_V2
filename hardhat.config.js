@@ -19,5 +19,11 @@ module.exports = {
         mnemonic: MNEMONIC,
       },
     },
+    bsctestnet: {
+      url: `https://bsc.publicnode.com`,
+      accounts: {
+        mnemonic: MNEMONIC,
+      },
+    },
   },
 };
